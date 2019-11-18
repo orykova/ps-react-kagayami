@@ -10,4 +10,4 @@ npm install ps-react
 
 # Docs
 
-[Component documentation](http://github.com/kagayami/ps-react-kagayami)
+[Component documentation](http://kagayami.github.io/ps-react-kagayami/)
